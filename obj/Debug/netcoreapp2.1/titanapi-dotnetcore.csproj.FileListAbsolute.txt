@@ -1,0 +1,14 @@
+C:\Utvikling\project-titan\titanapi-dotnetcore\bin\Debug\netcoreapp2.1\titanapi-dotnetcore.deps.json
+C:\Utvikling\project-titan\titanapi-dotnetcore\bin\Debug\netcoreapp2.1\titanapi-dotnetcore.runtimeconfig.json
+C:\Utvikling\project-titan\titanapi-dotnetcore\bin\Debug\netcoreapp2.1\titanapi-dotnetcore.runtimeconfig.dev.json
+C:\Utvikling\project-titan\titanapi-dotnetcore\bin\Debug\netcoreapp2.1\titanapi-dotnetcore.dll
+C:\Utvikling\project-titan\titanapi-dotnetcore\bin\Debug\netcoreapp2.1\titanapi-dotnetcore.pdb
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.csprojAssemblyReference.cache
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.csproj.CoreCompileInputs.cache
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.RazorAssemblyInfo.cache
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.RazorAssemblyInfo.cs
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.AssemblyInfoInputs.cache
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.AssemblyInfo.cs
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.RazorTargetAssemblyInfo.cache
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.dll
+C:\Utvikling\project-titan\titanapi-dotnetcore\obj\Debug\netcoreapp2.1\titanapi-dotnetcore.pdb
