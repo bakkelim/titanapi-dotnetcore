@@ -20,21 +20,19 @@ namespace titanapi_dotnetcore.Controllers
                     throw new Exception("Some error occured");
                 }
 
-
-                if (!model.Username.ToLower().Equals("ida@kolibrimedical.no"))
+                if (model.Username.ToLower().Equals("titan") && model.Password.Equals("Moon"))
                 {
-                    return Unauthorized();
-                }
-                
-
-                var user = new AppAuthUser
+                    var user = new AppAuthUser
                     {
                         username = model.Username,
                         bearerToken = "token",
                         isAuthenticated = true,
                     };
 
-                return Ok(user);
+                    return Ok(user);
+                }                
+
+                return Unauthorized();
             }
             catch
             {
